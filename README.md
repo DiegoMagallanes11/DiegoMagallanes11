@@ -17,7 +17,7 @@ Interés en **análisis de requisitos, lógica de negocio y pruebas funcionales*
 
 ## Conocimientos en formación
 
-- Java, Kotlin, PHP y SQL a nivel académico.
+- Conocimientos principales en Java, Kotlin, PHP y SQL a nivel académico, además de otros lenguajes y tecnologías utilizados durante su formación.
 - Uso de Laravel, Django, Git y GitHub en proyectos académicos.
 - Definición de requisitos y reglas de negocio; revisión de funcionalidades.
 - Comunicación y atención al cliente, con experiencia en arbitraje y apoyo en clases de tenis.
